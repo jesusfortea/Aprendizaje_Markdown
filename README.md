@@ -50,6 +50,6 @@ Aves es una clase de animales vertebrados homeotermos con los miembros anteriore
 [Página web de Jesuïtes Bellvitge](https://www.fje.edu/es/fje "Título opcional")
 
 ### Como poner una imagen
-![TextoAlternativo](./foto.jpg "Título opcional")
+![TextoAlternativo](https://github.com/jesusfortea/Aprendizaje_Markdown/blob/main/foto.jpg "Título opcional")
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.IdDlgmVhW2cD3ZrlJTX6owHaHa%26pid%3DApi&f=1&ipt=6f4c01759385e78602f1860ea51642d66d0ee30e9915bb8f828301c6c0da1692&ipo=images">
